@@ -5,7 +5,7 @@ AI-Powered Document Intelligence & Decision Engine (RAG + LLM System)
 
 🚀 What This Project Does
 
-InsightPilot AI transforms unstructured PDF documents into structured, decision-ready intelligence.
+InsightPilot AI transforms unstructured PDF documents into structured, decision-ready intelligence
 
 Instead of manually reading long documents, users can:
 
