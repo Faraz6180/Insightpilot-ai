@@ -9,7 +9,7 @@ InsightPilot AI transforms unstructured PDF documents into structured, decision-
 
 Instead of manually reading long documents, users can:
 
-Ask questions about any PDF
+Ask questions about any PDF:
 Get deep AI-powered analysis.
 Extract risks, insights, and opportunities
 Generate executive-grade strategic reports
