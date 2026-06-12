@@ -14,7 +14,7 @@ Get deep AI-powered analysis.
 Extract risks, insights, and opportunities
 Generate executive-grade strategic reports
 
-This system behaves like a junior consulting analyst powered by LLMs.
+This system behaves like a junior consulting analyst powered by LLMs
 
 💡 Problem It Solves
 
