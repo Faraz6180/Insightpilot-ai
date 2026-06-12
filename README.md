@@ -24,7 +24,7 @@ They struggle with:
 
 Identifying key insights quickly
 Extracting risks and opportunities
-Making structured decisions from raw text
+Making structured decisions from raw text.
 ⚙️ Solution
 
 InsightPilot AI uses Retrieval-Augmented Generation (RAG) to:
