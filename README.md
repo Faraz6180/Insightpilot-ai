@@ -16,7 +16,7 @@ Generate executive-grade strategic reports
 
 This system behaves like a junior consulting analyst powered by LLMs
 
-💡 Problem It Solves.
+💡 Problem It Solves
 
 Professionals, students, and researchers waste hours reading dense documents without clear structure or actionable insights.
 
