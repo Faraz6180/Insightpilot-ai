@@ -12,7 +12,7 @@ Instead of manually reading long documents, users can
 Ask questions about any PDF:
 Get deep AI-powered analysis
 Extract risks, insights, and opportunities
-Generate executive-grade strategic reports
+Generate executive-grade strategic reports.
 
 This system behaves like a junior consulting analyst powered by LLMs
 
