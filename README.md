@@ -7,8 +7,8 @@ AI-Powered Document Intelligence & Decision Engine (RAG + LLM System)
 
 InsightPilot AI transforms unstructured PDF documents into structured, decision-ready intelligence
 
-Instead of manually reading long documents, users can.....
-
+Instead of manually reading long documents, users can......
+.
 Ask questions about any PDF:
 Get deep AI-powered analysis
 Extract risks, insights, and opportunities
