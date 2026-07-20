@@ -1,7 +1,7 @@
 🧠 InsightPilot AI.
 AI-Powered Document Intelligence & Decision Engine (RAG + LLM System)
 
-🔗 Live Demo: https://huggingface.co/spaces/Faraz618/Insightpilot-ai......
+🔗 Live Demo: https://huggingface.co/spaces/Faraz618/Insightpilot-ai.......
 
 🚀 What This Project Does:
 
